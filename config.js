@@ -17,14 +17,14 @@ global.APIKeys = {
 }
 
 
-global.ownername = 'THE JO BOT'
+global.ownername = 'Rann D Pro'
 global.autorecording = false //status auto merekam ( auto record )
 global.autoketik = false //status auto mengetik (auto typing)
-global.available = false //status online (online)
+global.available = true //status online (online)
 // Other
-global.owner = ['60177426853','60177426853','60177426853']
-global.premium = ['60177426853']
-global.packname = 'The Jo Bot'
+global.owner = ['6285752583246','6285752583246','6285752583246']
+global.premium = ['6285752583246']
+global.packname = 'Rann Bot Sticker'
 global.author = 'WhatsApp Bot'
 global.wlcm = []
 global.sessionName = 'session'
